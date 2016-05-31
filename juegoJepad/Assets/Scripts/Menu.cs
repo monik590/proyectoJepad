@@ -13,6 +13,6 @@ public class Menu : MonoBehaviour {
 	
 	}
 	public void EnterGame(){
-		Application.LoadLevel(1);
+		Application.LoadLevel(0);
 	}
 }
